@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#64bf56">
+
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:id="@+id/imv_pokemon"
+        android:src="@drawable/kawax"
+        />
+    <TextView
+        android:id="@+id/txv_pokemon"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/colorRed"
+        android:text="@string/Pikachu"
+        android:textAlignment="center"
+        android:textSize="10pt"
+
+        />
+</LinearLayout>

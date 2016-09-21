@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="raza">Teclea raza</string>
+    <string name="color">Teclea color</string>
+    <string name="peso">Teclea peso</string>
+    <string name="clonar">Clonar</string>
+    <string name="oveja">Oveja</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Tipo">tipo</string>
+    <string name="Picachu">Picachu</string>
+    <string name="Pikachu">Pikachu</string>
+</resources>
